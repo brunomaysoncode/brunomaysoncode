@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Bruno%20Mayson&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20São%20Paulo%2C%20Brasil&descAlignY=58&descSize=18" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunomaysoncode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunomaysoncode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunomayson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunomayson)
 [![GitHub](https://img.shields.io/badge/GitHub-brunomaysoncode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunomaysoncode)
 [![Gmail](https://img.shields.io/badge/Gmail-brunomaysoncantor@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomaysoncantor@gmail.com)
 
@@ -74,7 +74,7 @@ Sou um desenvolvedor **Full-Stack** apaixonado por criar soluções web modernas
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunomaysoncode)
+[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunomayson)
 
 </div>
 
